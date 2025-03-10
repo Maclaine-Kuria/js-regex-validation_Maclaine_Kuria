@@ -57,9 +57,10 @@ project-folder/
 - **Valid Password:** "Passw0rd" → ✅ No error.
 
   
-![alt text](image-1.png)        ![alt text](image-2.png)
+![alt text](image-1.png)       
 
 
+ ![alt text](image-2.png)
 
 ## Technologies Used
 - **HTML** (for structure)
