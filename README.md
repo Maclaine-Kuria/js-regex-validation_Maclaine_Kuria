@@ -36,15 +36,18 @@ project-folder/
 
 ## How It Works
 1. The **HTML form** contains input fields and a submit button.
+   
 ![alt text](image.png)
-2. The **JavaScript file (`script.js`)**:
+
+
+3. The **JavaScript file (`script.js`)**:
    - Listens for input events on fields.
    - Uses **Regular Expressions** to validate input.
    - Displays error messages for invalid inputs.
    - Highlights incorrect fields with a red border.
    - Highlights correct fields with a green border.
    - Displays a success message when the form is submitted correctly.
-3. When **all fields are valid**, the form resets and shows a success message.
+4. When **all fields are valid**, the form resets and shows a success message.
 
 ## Example Usage
 - **Invalid Full Name:** "John123" → ❌ Error: "Only alphabetic characters and spaces allowed."
