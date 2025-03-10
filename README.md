@@ -55,7 +55,10 @@ project-folder/
 - **Valid Phone Number:** "1234567890" → ✅ No error.
 - **Invalid Password:** "password" → ❌ Error: "Must be 8+ chars, 1 uppercase, 1 lowercase, 1 number."
 - **Valid Password:** "Passw0rd" → ✅ No error.
+
+  
 ![alt text](image-1.png)
+
 ![alt text](image-2.png)
 
 ## Technologies Used
